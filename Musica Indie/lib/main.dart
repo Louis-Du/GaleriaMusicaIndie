@@ -55,8 +55,8 @@ class Principal extends StatelessWidget {
 
                             ClipRRect(
                               borderRadius: BorderRadius.circular(15),
-                              child: Image.network(
-                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxbivX6ebfgth5ywB6ymaN-lwuJPhOEVOZw&s",
+                              child: Image.asset(
+                                "assets/images/StopCryingYourHeartOut.jpeg",
                                 width: double.infinity,
                                 height: 250,
                                 fit: BoxFit.cover,
@@ -112,8 +112,8 @@ class Principal extends StatelessWidget {
 
                             ClipRRect(
                               borderRadius: BorderRadius.circular(15),
-                              child: Image.network(
-                                "https://i.ytimg.com/vi/lqSgsq4Bn2c/maxresdefault.jpg",
+                              child: Image.asset(
+                                "assets/images/DaddyIssues.jpg",
                                 width: double.infinity,
                                 height: 250,
                                 fit: BoxFit.cover,
@@ -169,8 +169,8 @@ class Principal extends StatelessWidget {
 
                             ClipRRect(
                               borderRadius: BorderRadius.circular(15),
-                              child: Image.network(
-                                "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+                              child: Image.asset(
+                                "assets/images/TheAdultsareTalking.jpeg",
                                 width: double.infinity,
                                 height: 250,
                                 fit: BoxFit.cover,
@@ -225,8 +225,8 @@ class Principal extends StatelessWidget {
 
                             ClipRRect(
                               borderRadius: BorderRadius.circular(15),
-                              child: Image.network(
-                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbB1-NU6wjkdo9Gh_gKsUezg0VybUEfJvzag&s",
+                              child: Image.asset(
+                                "assets/images/TheGreatGigintheSky.png",
                                 width: double.infinity,
                                 height: 250,
                                 fit: BoxFit.cover,
@@ -281,8 +281,8 @@ class Principal extends StatelessWidget {
                     ClipRRect(
                       borderRadius: BorderRadius.circular(8),
 
-                      child: Image.network(
-                        "https://i.ytimg.com/vi/ngzC_8zqInk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGF4gXiheMA8=&rs=AOn4CLC88vZpChe_KPyHV7svb7VbE6mliw",
+                      child: Image.asset(
+                        "assets/images/RUMine.jpg",
                         width: 170,
                         height: 170,
                         fit: BoxFit.cover,
@@ -352,8 +352,8 @@ class Principal extends StatelessWidget {
                     ClipRRect(
                       borderRadius: BorderRadius.circular(8),
 
-                      child: Image.network(
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3iCJIXyhF2pGwx6CyLWnwIB4wWgcp7kML5w&s",
+                      child: Image.asset(
+                        "assets/images/NoSurprises.jpeg",
                         width: 170,
                         height: 170,
                         fit: BoxFit.cover,
@@ -423,8 +423,8 @@ class Principal extends StatelessWidget {
                     ClipRRect(
                       borderRadius: BorderRadius.circular(8),
 
-                      child: Image.network(
-                        "https://akamai.sscdn.co/uploadfile/letras/albuns/3/b/3/0/589411501678994.jpg",
+                      child: Image.asset(
+                        "assets/images/Sweet.jpg",
                         width: 170,
                         height: 170,
                         fit: BoxFit.cover,

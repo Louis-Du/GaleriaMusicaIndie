@@ -1,4 +1,4 @@
-name: Música Indie
+name: Musica_Indie
 description: "A new Flutter project."
 
 publish_to: 'none'
@@ -31,3 +31,4 @@ flutter:
 
   assets:
     - assets/icon/logo.png
+    - assets/images/
