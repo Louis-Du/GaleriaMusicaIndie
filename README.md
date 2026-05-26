@@ -15,7 +15,7 @@
 ## Descripción
 
 **GaleriaMusicaIndie** es una aplicación dedicada a la exposición y exploración de algunas de las canciones indies conocidas. 
->[Nota]
+>[!NOTE]
 > Este es un proyecto acádemico hecho para desarrollar una aplicación movil con carrusel.
 
 ---
@@ -23,7 +23,7 @@
 ## Captura de Pantalla
 
 <p align="center">
-  <img src="Musica Indie/assets/images/app-screenshot.png" alt="Captura de la App" width="300" />
+  <img src="Musica Indie/assets/images/app-screenshot.jpg" alt="Captura de la App" width="300" />
 </p>
 
 ---
